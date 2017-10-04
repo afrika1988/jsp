@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=windows-1251" />
+  <style type="text/css">
+  %style%
+  </style>
+  <title> Portal 42</title>
+  
+ <head>
+ <link rel="shortcut icon" href="http://portal42.sytes.net/images/ruk.png" type="image/x-icon">
+</head>
+
+ <style>
+   .rightpic {
+    float: right;
+    margin: 0 0 5px 5px;
+   }
+  </style>
+ </head>
+ <body>
+  <p><a href="http://portal42.sytes.net/"><img src="http://portal42.sytes.net/images/ruk.png" alt=
+   width="60" height="60" class="rightpic">
+
+<body> 
+   <p><a href="http://portal42.sytes.net/"><img src="http://portal42.sytes.net/images/ruk.png" width="65" 
+   height="65" alt=" "></a></p>
+ </body>
+
+<center><big><font color="#020000"><font size="+3">  </font></big></center>
+</br>
+<HR>
+
+<div align=center>
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+<ul id="menu">
+	<li><a href="http://portal42.sytes.net/"><span> Главная </span></a></li>
+	<li><a href="http://portal42.sytes.net/mal4iki.html"><span>Товары </span></a></li>
+	<li><a href="http://portal42.sytes.net/operator.html"><span> Оператор </span></a></li>
+	<li><a href="http://portal42.sytes.net/site.html"><span>О сайте</span></a></li>
+              <li><a href="http://portal42.sytes.net/sponsor.html"><span> Спонсоры</span></a></li>
+</ul>
+</div>
+
+<HR>
+<br>
+<br>
+<br>
+<br>
+ <style>
+  body { background: url(http://portal42.sytes.net/images/8-fon.jpg); }
+</style>
+
+</br>
+<center><big><font color="#000"><font size="+3"> Сайт <a href="http://portal42.sytes.net/">"http://portal42.sytes.net/</a>
+<br> не прентендует на авторские права пользователей<br>
+и информации размещённые на данном сайте.<br>
+</font></big></center>
+	
+</HR>
+
+[error-page]
+<html>
+  <head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+    <style>
+    %style%
+    </style>
+  </head>
+<body>
+%content%
+ <meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<html>
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <style type="text/css">
+  </style>
+
+  <title>404 error</title>
+  <style>
+  body {
+background: url(http://portal42.sytes.net/images/404.png) no-repeat;
+   </style>
+   </head>
+<br>
+<br>
+<br>
+<div style="font-family:tahoma, verdana, arial, helvetica, sans; font-size:18pt;">
+<a href="http://portal42.sytes.net/">Перейти на главную страницу сайта</a>
+<br>
+%timestamp%
+</div>
+</body>
+</html>
+
+[not found]
+<h1> </h1>
+<a href="http://portal42.sytes.net/"> </a>
